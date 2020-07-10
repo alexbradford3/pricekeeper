@@ -1,1 +1,2 @@
-# pricekeeper
+.env
+/node_modules/
